@@ -18,6 +18,9 @@
     "Next.js",
     "Lerna"
   ],
+  "files": [
+    "src"
+  ],
   "publishConfig": {
     "access": "public"
   },
