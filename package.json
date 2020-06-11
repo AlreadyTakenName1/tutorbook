@@ -26,10 +26,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tutorbookapp/covid-tutoring.git"
+    "url": "git+https://github.com/tutorbookapp/tutorbook.git"
   },
   "bugs": {
-    "url": "https://github.com/tutorbookapp/covid-tutoring/issues"
+    "url": "https://github.com/tutorbookapp/tutorbook/issues"
   },
   "devDependencies": {
     "@types/accept-language-parser": "^1.5.1",
